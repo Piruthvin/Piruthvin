@@ -40,12 +40,13 @@ Explore my verified certificates :
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piruthvin&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=Piruthvin&theme=merko&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Piruthvin&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piruthvin&theme=merko&hide_border=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Piruthvin&theme=merko&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piruthvin&theme=merko&hide_border=false&layout=compact)
 
 ---
 
