@@ -2,24 +2,16 @@
 
 🎓 Electronics and Communication Engineering Student  
 🏫 Karpagam Institute of Technology (KIT)  
-💡 Passionate about **problem solving**, **web app development**, and exploring new tech  
-👨‍💻 Aspiring **Software Developer** | Lifelong Learner
+💡 Passionate about **Problem Solving**, **Web Development**, and **Exploring New Technologies**  
+👨‍💻 Aspiring **Software Developer**
 
 ---
 
-# 📁 My Certificates
-
-Explore my verified certificates :
-
-[[Certificates](https://github-readme-stats.vercel.app/api/pin/?username=Piruthvin&repo=Certificates&theme=merko)](https://github.com/Piruthvin/Certificates)
-
----
-
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piruthvin_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Piruthvin) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23ecb38@karpagamtech.ac.in) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23ecb38@karpagamtech.ac.in)
 
 ---
 
@@ -34,21 +26,40 @@ Explore my verified certificates :
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Piruthvin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Piruthvin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piruthvin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Piruthvin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🚀 Featured Projects
+
+### 🔹 Project 1
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Piruthvin&repo=candidate-validation-platform&theme=tokyonight)](https://github.com/Piruthvin/candidate-validation-platform)
+
+### 🔹 Project 2
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Piruthvin&repo=poster-generator&theme=tokyonight)](https://github.com/Piruthvin/poster-generator)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Piruthvin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats
 
-<!-- 🚀 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api?username=Piruthvin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Piruthvin&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piruthvin&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🔝 Top Contributed Repo 
+
+![](https://github-contributor-stats.vercel.app/api?username=Piruthvin&limit=5&theme=tokyonight)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piruthvin&theme=tokyonight)
+
+---
+
+# 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=Piruthvin&icon=0&color=6)
+
+---
