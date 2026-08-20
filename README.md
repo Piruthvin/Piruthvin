@@ -32,10 +32,10 @@
 # 🚀 Featured Projects
 
 ### 🔹 Project 1
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Piruthvin&repo=candidate-validation-platform&theme=tokyonight)](https://github.com/Piruthvin/candidate-validation-platform)
+[![candidate-validation-platform](https://github-readme-stats.vercel.app/api/pin/?username=Piruthvin&repo=candidate-validation-platform&theme=tokyonight)](https://github.com/Piruthvin/candidate-validation-platform)
 
 ### 🔹 Project 2
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Piruthvin&repo=poster-generator&theme=tokyonight)](https://github.com/Piruthvin/poster-generator)
+[![poster-generator](https://github-readme-stats.vercel.app/api/pin/?username=Piruthvin&repo=poster-generator&theme=tokyonight)](https://github.com/Piruthvin/poster-generator)
 
 ---
 
@@ -57,9 +57,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piruthvin&theme=tokyonight)
 
 ---
-
 # 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Piruthvin&icon=0&color=6)
+![](https://komarev.com/ghpvc/?username=Piruthvin&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
